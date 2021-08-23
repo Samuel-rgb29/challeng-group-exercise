@@ -1,2 +1,2 @@
-# challeng-group-exercise
+# challenge-group-exercise
 assignment 3
